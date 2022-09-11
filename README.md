@@ -1,4 +1,4 @@
-                                        ## Belly_Button_Biodiversity
+                                                  ## Belly_Button_Biodiversity
                                         
 We created a horizontal bar chart to display the top 10 OTUs using Javascript, Plotly, and D3.js. We select the individual ID from the dropdown menu on the webpage to show each unique dataset corresponding to the ID. We created the Gauge chart based on the subject’s frequency of washing their belly button. Subject washing less provided a higher concentration of bacteria. Finally, we displayed bacteria cultures per sample on the bubble chart. A bigger bubble depicts a higher concentration of bacteria. 
 
