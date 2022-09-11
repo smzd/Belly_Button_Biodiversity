@@ -1,0 +1,14 @@
+body{
+    background-color: gainsboro;
+    color: black;
+    font-style:inherit;
+
+}
+
+.jumbotron {
+    color: white;
+    background-image: url("Dna.jpg");
+    background-size: 100% ;
+    text-align: center;
+    font-style: italic;
+  }
